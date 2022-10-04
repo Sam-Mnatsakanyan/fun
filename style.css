@@ -88,3 +88,54 @@ height: 245px;
                 top: 1.255%;
                 
                 }
+                .div5 {
+
+                    width: 250px;
+                    height: 300px;
+                    border: 2px solid;
+                    position: absolute;
+                    top: 45%;
+                    
+                    
+                    }
+                    .div6 {
+
+                        width: 250px;
+                        height: 300px;
+                        border: 2px solid;
+                        position: absolute;
+                        left: 20%;
+                        top: 45%;
+                        
+                        }
+                       
+                    .div7 {
+                    
+                            width: 250px;
+                            height: 300px;
+                            border: 2px solid;
+                            position: absolute;
+                            left: 39%;
+                            top: 45%;
+                            
+                            }
+                            .div8 {
+                    
+                                width: 250px;
+                                height: 300px;
+                                border: 2px solid;
+                                position: absolute;
+                                left: 58%;
+                                top: 45%;
+                                
+                                }
+                                .div9 {
+                    
+                                    width: 250px;
+                                    height: 300px;
+                                    border: 2px solid;
+                                    position: absolute;
+                                    left: 77%;
+                                    top: 45%;
+                                    
+                                    }
