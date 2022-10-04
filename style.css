@@ -33,6 +33,25 @@
     color: rgb(52, 49, 49);
 
 }
+.homebutton {
+
+    background-color: rgb(23, 167, 13);
+    width: 200px;
+    height: 60px;
+    border-radius: 7%;
+    position: absolute;
+    top: 10%;
+    right: 5%;
+    
+
+}
+
+.homebutton1 {
+
+    text-decoration: none; 
+    color: rgb(52, 49, 49);
+
+}
 .div {
 
 width: 250px;
