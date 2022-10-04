@@ -1,0 +1,90 @@
+.button {
+
+    background-color: rgb(23, 167, 13);
+    width: 252px;
+    height: 60px;
+
+
+}
+
+.button1 {
+
+    text-decoration: none; 
+    color: rgb(52, 49, 49);
+
+}
+
+.sbutton {
+
+    background-color: rgb(23, 167, 13);
+    width: 200px;
+    height: 60px;
+    border-radius: 7%;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    
+
+}
+
+.sbutton1 {
+
+    text-decoration: none; 
+    color: rgb(52, 49, 49);
+
+}
+.div {
+
+width: 250px;
+height: 300px;
+border: 2px solid;
+
+}
+
+.img{
+
+width: 251px;
+height: 245px;
+
+}
+.div1 {
+
+    width: 250px;
+    height: 300px;
+    border: 2px solid;
+    position: absolute;
+    left: 20%;
+    top: 1.255%;
+    
+    }
+   
+.div2 {
+
+        width: 250px;
+        height: 300px;
+        border: 2px solid;
+        position: absolute;
+        left: 39%;
+        top: 1.255%;
+        
+        }
+        .div3 {
+
+            width: 250px;
+            height: 300px;
+            border: 2px solid;
+            position: absolute;
+            left: 58%;
+            top: 1.255%;
+            
+            }
+            .div4 {
+
+                width: 250px;
+                height: 300px;
+                border: 2px solid;
+                position: absolute;
+                left: 77%;
+                top: 1.255%;
+                
+                }
